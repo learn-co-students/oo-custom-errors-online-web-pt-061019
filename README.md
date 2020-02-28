@@ -34,7 +34,7 @@ we'll practice building simple custom errors.
 **This is a code along.** There are no tests to pass, but you must [manually
 fork and clone the
 repo](http://help.learn.co/workflow-tips/github/how-to-manually-open-a-lab) in
-order to code along!
+order to code along **if** you are not using the IDE. 
 
 ## Before we begin, a note on inheritance
 
